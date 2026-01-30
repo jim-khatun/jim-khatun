@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ms. Jim Khatun 👋 
+### AI Automation Engineer | Agentic Workflow Specialist
 
-<!--
-**jim-khatun/jim-khatun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build intelligent, autonomous systems that bridge the gap between AI potential and business reality.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+* **Orchestration:** n8n, Zapier, etc.
+* **AI Frameworks:** LangChain, Langflow, AI Agents
+* **Models:** Google Gemini, OpenAI etc.
+* **Integrations:** Facebook Graph API, Gmail API, YouTube Data API ,etc.
+
+---
+
+### 📫 Connect with me
+* **Location:** Bogura, Dhaka, Bangladesh
+* **Email:** hello.jimkhatun@gmail.com
